@@ -1,0 +1,53 @@
+body{
+	font-family: Arial;
+}
+.contenedor{
+	width: 725px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+.coders{
+	width: 211px;
+	height: 211px;
+	position: relative;
+	float: left;
+	margin: 15px;
+}
+.subrayado{
+	border-bottom: 3px black solid;
+	width: 60px;
+	margin: 0 20px 20px 0;
+}
+.titulo{
+	font-size: 20px;
+	margin: 20px 20px 20px 0;
+}
+p{
+	position: absolute;
+	bottom: 4px;
+	right: 10px;
+	color: white;
+	font-size: 12px;
+	padding: 0;
+	margin: 0;
+}
+.img1{
+	background-image: url("../img/profile-1.png");
+}
+.img2{
+	background-image: url("../img/profile-2.png");
+}
+.img3{
+	background-image: url("../img/profile-3.png");
+}
+.img4{
+	background-image: url("../img/profile-4.png");
+}
+.img5{
+	background-image: url("../img/profile-5.png");
+}
+.img6{
+	background-image: url("../img/profile-6.png");
+}
